@@ -14,6 +14,6 @@
   "dependencies": {
     "nuclide-atom-helpers": "0.0.0",
     "nuclide-logging": "0.0.0",
-    "parse": "1.3.0"
+    "parse": "6.1.1"
   }
 }
