@@ -11,7 +11,7 @@
     "atom": ">=0.199.0"
   },
   "dependencies": {
-    "diff": "1.4.0",
+    "diff": "8.0.3",
     "react-for-atom": "0.13.6"
   }
 }
