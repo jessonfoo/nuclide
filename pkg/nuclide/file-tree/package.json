@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "fs-plus": "2.8.0",
-    "immutable": "3.6.2",
+    "immutable": "4.3.8",
     "nuclide-atom-helpers": "0.0.0",
     "nuclide-atom-interfaces": "0.0.0",
     "nuclide-commons": "0.0.0",
